@@ -1,5 +1,10 @@
-# 💫 About Me:
-🌱 I'm currently studying programming.<br>🔭 I'm very interested in backend development.<br>🤝 I work in sales.<br>⚡ Open to work any time.
+# 💫 About Me
+
+Hi, I’m Matias Yacob. I’m studying programming with a focus on backend development. I’m particularly interested in building APIs with JavaScript and Node.js.
+
+I have a background in sales and I’m open to opportunities in software development. You can see what I’ve been building in my [portfolio repository](https://github.com/MatiasYacob/-matias-yacob-portfolio).
+
+🔭 I'm very interested in backend development.<br>🤝 I work in sales.<br>⚡ Open to work any time.
 
 
 ## 🌐 Socials:
